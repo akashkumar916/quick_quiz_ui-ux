@@ -1,4 +1,4 @@
 # quick_quiz_ui-ux
-A Web UI Template for Quick quiz app -Made using HTML,CSS,JQUERY,Bootstrap
+A Web UI Template for Quick quiz app -Made using <b>Html,Css,Jquery,Bootstrap<b/>
 <br/>
 <img src="main_page.png"/>
